@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitlab-arm64:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-12T06:06:35.337763628+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 3c3148093ece20a67940959d286be9dcd15cd65dd3166053ba596e2d11ef1047
+    name: gitlab-arm64
+    type: application
+    urls:
+    - https://github.com/dusty-82/helm/gitlab-arm64/gitlab-arm64-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-12T06:06:35.337438028+01:00"
